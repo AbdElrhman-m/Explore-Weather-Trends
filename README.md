@@ -5,6 +5,7 @@ In this project, you will analyze local and global temperature data and compare 
 [![Build Status](https://img.shields.io/travis/twbs/bootstrap/v4-dev.svg)](https://github.com/superbido/fav-moviewebsite/edit/master/README.md)
 
 ## used softwares
+- SQL
 - microsoft powerpoint
 - Excel
 
